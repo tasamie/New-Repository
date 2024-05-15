@@ -1,0 +1,2 @@
+Here  I made a simple coffee shop website using Html, Css, Javascript and Bootstrap.
+Here we have different section that is our special section, about us section, a contact section or also we can say a booking a table and at the bottom we have a testimonials that is what says our clients, we can slide it as well and it or automatically gets slided and at last we have our one footer which includes our google map as well.
